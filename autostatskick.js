@@ -16,7 +16,7 @@ var options = {
     weaponStats:
         {
             'minimumKills': 50, //minimum kills to kick (guess that's obvious :D)
-            'boltActionHSR': 0.9, //All bolt-action sniper-rifles HeadShotRatio maximum ( 0.9 = 90% )
+            'boltActionHSR': 0.95, //All bolt-action sniper-rifles HeadShotRatio maximum ( 0.95 = 95% )
             'semiAutoHSR': 0.65, //All semi-auto sniper-files HeadShotRatio maximum ( 0.65 = 65% )
             'autoWeaponsHSR': 0.4, //All SMG/LMG/Assault Rifles + VSS/VSS+3, SVUA/SVUA+3 HeadShotRatio maximum (0.4 = 40% )
             'deaglerexHSR': 0.75, //Deagle50, Steel Deagle50 and MP412-REX HeadShotRatio maximum (0.75 = 75%)
