@@ -14,3 +14,6 @@ Kicks for weapon stats:
 - HeadShotRatio on all other full auto-weapons (SMG, LMG, Assault-Rifles, VSS, VSS+3, SVU-A, SVU-A+3)
 
 How to install ?
+Just check the video from youtube :)
+
+http://youtu.be/qqhI9IpVnLc
