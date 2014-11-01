@@ -1,0 +1,16 @@
+{
+  "name": "BFP4FNodeStatsAutoKick",
+  "subdomain": "bfp4fautokick",
+  "scripts": {
+    "start": "autostatskick.js"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "deep-diff": ">= 0.3.0",
+    "nodep4frcon": ">= 1.0.2"
+  },
+  "main": "autostatskick.js",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
