@@ -1,9 +1,9 @@
 //CHANGE ONLY THESE LINES!!
 //DO WHATEVER YOU WANT BUT YOU NEED TO KNOW HOW
 var connection = {
-    host: "194.97.46.34",
-    port: 4711,
-    password: "123Kop123"
+    host: "",
+    port: 1337,
+    password: ""
 }
 var options = {
     kickForStatspadding: true, //Do you want to kick for statspadding? Write true if yes, write false if no
