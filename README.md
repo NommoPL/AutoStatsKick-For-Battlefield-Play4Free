@@ -7,13 +7,12 @@ Kicks for statspadding:
 - Kill Streak
 
 Kicks for weapon stats:
-- HeadShotRatio on Deagle/REX
-- HeadShotRatio on Pistols (excludes Deagle/REX)
-- HeadShotRatio on Bolt-Action Sniper-Rifles
-- HeadShotRatio on Semi-Auto Sniper-Rifles
-- HeadShotRatio on all other full auto-weapons (SMG, LMG, Assault-Rifles, VSS, VSS+3, SVU-A, SVU-A+3)
+- HeadShotRatio/Accuracy on Deagle/REX
+- HeadShotRatio/Accuracy on Pistols (excludes Deagle/REX, for accuracy it won't kick also Scattergun/Nosferatu/EASY-Piece)
+- HeadShotRatio/Accuracy on Bolt-Action Sniper-Rifles (you can easily turn that one off)
+- HeadShotRatio/Accuracy on Semi-Auto Sniper-Rifles
+- HeadShotRatio/Accuracy on all other full auto-weapons (SMG, LMG, Assault-Rifles, VSS, VSS+3, SVU-A, SVU-A+3)
 
-How to install ?
-Just check the video from youtube :)
+How to install ? Just check the video from youtube :)
 
 http://youtu.be/qqhI9IpVnLc
